@@ -8,10 +8,24 @@ h3. Installation
 
 Simply check out this repo into either <code>~/Library/Application Support/Coda/Plug-ins</code>, be sure to name the directory <code>RubyOnRails.mode</code> and then restart Coda.
 
-h2. Author
+h3. Commands
+
+Right now there's a very simple set of shortcuts
+
+- Typing { will insert {} with the cursor in between
+- Typing ( will do the same with ()
+- Hitting ^L (Ctrl L) will insert "=>"
+- Hitting ^3 or ^# (Ctrl 3 or Ctrl #) will insert #{}
+
+* Sadly coda doesn't have keyboard triggers, AFAIK, so I had to use ^3 :(
+
+
+h2. Author(s)
 
 Written by StuFF mc - "Pomcast.biz":http://pomcast.biz/
 
+Fork this repo, open this same "RubyOnRails.codaplugin" file/bundle in "Coda Plug-In Creator":http://panic.com/coda/developer/howto/plugins.php and add things, then send me a pull request!
+
 h3. Credits
 
-Thanks to "Panic":http://www.panic.com/ for creating a kick-ass IDE! You might also be interested by the "YAML.mode":http://github.com/stuffmc/YAML.mode and the "YAML Navigator":http://groups.google.com/group/coda-users/browse_frm/thread/3670883e279e9e79/965492074542f0d8?#965492074542f0d8 (very experimental)
+Thanks to "Panic":http://www.panic.com/ for creating a kick-ass IDE! You might also be interested by the "YAML.mode":http://github.com/stuffmc/YAML.mode and the "YAML Navigator":http://groups.google.com/group/coda-users/browse_frm/thread/3670883e279e9e79/965492074542f0d8?#965492074542f0d8 (very experimental Cocoa Coda Plugin).
