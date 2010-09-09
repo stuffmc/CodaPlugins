@@ -1,0 +1,17 @@
+h1. RubyOnRails.codaplugin
+
+RubyOnRails.codaplugin is a simple Plug-In (created with "Coda Plug-In Creator":http://panic.com/coda/developer/howto/plugins.php) that uses a few super ultra simple ruby scripts to try to bring some of the missing keyboard shortcuts in Coda for basic Ruby On Rails development.
+
+h2. Usage
+
+h3. Installation
+
+Simply check out this repo into either <code>~/Library/Application Support/Coda/Plug-ins</code>, be sure to name the directory <code>RubyOnRails.mode</code> and then restart Coda.
+
+h2. Author
+
+Written by StuFF mc - "Pomcast.biz":http://pomcast.biz/
+
+h3. Credits
+
+Thanks to "Panic":http://www.panic.com/ for creating a kick-ass IDE! You might also be interested by the "YAML.mode":http://github.com/stuffmc/YAML.mode and the "YAML Navigator":http://groups.google.com/group/coda-users/browse_frm/thread/3670883e279e9e79/965492074542f0d8?#965492074542f0d8 (very experimental)
