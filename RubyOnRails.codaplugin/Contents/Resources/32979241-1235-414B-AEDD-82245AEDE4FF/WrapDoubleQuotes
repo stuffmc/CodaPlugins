@@ -1,0 +1,4 @@
+#!/usr/bin/ruby
+
+sel = ENV["CODA_SELECTED_TEXT"]
+print "\"#{sel}\"$$IP$$"

@@ -88,6 +88,46 @@
 			<key>uuid</key>
 			<string>D76B3BF5-1F56-432D-B7BA-8C87AEED1240</string>
 		</dict>
+		<dict>
+			<key>fallbackInput</key>
+			<string>none</string>
+			<key>input</key>
+			<string>selection</string>
+			<key>keyEquivalent</key>
+			<string>^"</string>
+			<key>keyEquivalentConflict</key>
+			<false/>
+			<key>name</key>
+			<string>Wrap "</string>
+			<key>output</key>
+			<string>replaceSelectedText</string>
+			<key>script</key>
+			<string>WrapDoubleQuotes</string>
+			<key>setInsertionPoint</key>
+			<true/>
+			<key>uuid</key>
+			<string>32979241-1235-414B-AEDD-82245AEDE4FF</string>
+		</dict>
+		<dict>
+			<key>fallbackInput</key>
+			<string>none</string>
+			<key>input</key>
+			<string>selection</string>
+			<key>keyEquivalent</key>
+			<string>^'</string>
+			<key>keyEquivalentConflict</key>
+			<false/>
+			<key>name</key>
+			<string>Wrap '</string>
+			<key>output</key>
+			<string>replaceSelectedText</string>
+			<key>script</key>
+			<string>WrapSingleQuotes</string>
+			<key>setInsertionPoint</key>
+			<true/>
+			<key>uuid</key>
+			<string>A672D2A0-25EB-4396-AC41-7F037D0DAC4C</string>
+		</dict>
 	</array>
 </dict>
 </plist>
