@@ -1,4 +1,4 @@
-h1. RubyOnRails.codaplugin
+h1. Coda Plug-ins
 
 RubyOnRails.codaplugin is a simple Plug-In (created with "Coda Plug-In Creator":http://panic.com/coda/developer/howto/plugins.php) that uses a few super ultra simple ruby scripts to try to bring some of the missing keyboard shortcuts in Coda for basic Ruby On Rails development.
 
